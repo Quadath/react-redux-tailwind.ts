@@ -1,11 +1,12 @@
-# Github-search
+# Github-search is my pet-project
 
-#What what does this app do?
+# What what does this app do?
 
-##Search github users
+### - Search github users
 
-##Show repos of user
+### - Show repos of user
 
-##Add his repos to favourites
+### - Add his repos to favourites
 
-Stack: react, redux, RTKQuery, tailwind
+#### Stack: React, Redux, RTKQuery, Tailwind
+
